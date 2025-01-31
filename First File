@@ -2,3 +2,4 @@
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
 Console.WriteLine("FSC subjects: English, Urdu, Biology, Chemistry, Physics, Islamiyat");
+Console.WriteLine("1st semester subjects: EHS, Computer Programming, Physics, Islamiyat, Calculas, ITS");
