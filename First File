@@ -1,3 +1,13 @@
 # lab-2
 Console.WriteLine("Raheen Fatima");
 Console.WriteLine("24-ST-068");
+Console.WriteLine("FSC subjects: English, Urdu, Biology, Chemistry, Physics, Islamiyat");
+Console.WriteLine("1st semester subjects: EHS, Computer Programming, Physics, Islamiyat, Calculas, ITS");
+Console.WriteLine("2nd semester subjects:");
+Console.WriteLine(" 1. Discrete Structure");
+Console.WriteLine(" 2. SDLC");
+Console.WriteLine(" 3. SCM");
+Console.WriteLine(" 4. Functional English");
+Console.WriteLine(" 5. THQ-1");
+Console.WriteLine(" 6. OOP");
+Console.WriteLine(" 7. Prob & Stats");
