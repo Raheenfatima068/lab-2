@@ -11,3 +11,10 @@ Console.WriteLine(" 4. Functional English");
 Console.WriteLine(" 5. THQ-1");
 Console.WriteLine(" 6. OOP");
 Console.WriteLine(" 7. Prob & Stats");
+
+
+
+Console.WriteLine(" 4. Functional English");
+Console.WriteLine(" 5. THQ-1");
+Console.WriteLine(" 6. OOP");
+Console.WriteLine(" 7. Prob & Stats");
